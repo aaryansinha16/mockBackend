@@ -11,19 +11,7 @@
       "rating": 8,
       "user_name": "Peter Parker",
       "text": "You are the spiderman of this world"
-    },
-    {
-      "hey": "this should work atleast",
-      "id": 4
-    },
-    {
-      "hey": "this should work atleast",
-      "id": 5
-    },
-    {
-      "hey": "this should work atleast",
-      "id": 6
     }
   ],
-  "new": []
+  "books": []
 }
